@@ -1,4 +1,8 @@
-# Problems
+# Solutions for codewars problems
+
+![Github Workflow badge](https://github.com/lawliet529/codewars/actions/workflows/maven.yml/badge.svg)
+
+## Problems
 
 Problems are sorted by _kyu_ in decreasing order (easier first). Problems with the same kyu are sorted alphabetically by name.
 
